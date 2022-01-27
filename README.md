@@ -6,7 +6,7 @@ In this project we will we will perform Exploratory Data Analysis on IPL matches
 ## Dataset
 The dataset consists of data about IPL matches played from the year 2008 to 2019. The IPL is a professional T20 cricket league founded by the Board of Control for Cricket in India (BCCI) in 2008. The league comprises of 8 teams representing 8 different Indian cities or states. For our analysis we will use the matches.csv from the Dataset folder.
 The dataset has 18 columns. Let’s get familiar with the columns.
-* id: The IPL match id.
+* __id:__ The IPL match id.
 * season: The IPL season
 * city: The city where the IPL match was held.
 * date: The date on which the match was held.
