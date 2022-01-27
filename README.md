@@ -32,5 +32,9 @@ The dataset consists 18 columns. Let’s get familiar with the columns.
 * To find the player with the most player of the match awards.
 * To find the city that hosted the maximum number of IPL matches.
 * To find the most winning team for each season.
+
+## Repo structure
++ [`Image_Annotation`](/Image_Annotation/): Scripts and instructions on annotating images
++ [`Result`](/Result/): Video Recording of the Results
 * To find the on-field umpire with the maximum number of IPL matches.
 * To find the biggest victories in IPL while defending a total and while chasing a total.
