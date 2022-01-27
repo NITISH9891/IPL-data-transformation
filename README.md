@@ -37,4 +37,4 @@ The dataset consists 18 columns. Let’s get familiar with the columns.
 
 ## Repo structure
 + [`Dataset`](/Dataset/): Contains the matches.csv data for our analysis.
-+ [`Code`](/Code/): Contains the Google Colab notebook of our project.
++ [`IPL_Analysis.ipynb`](/IPL_Analysis.ipynb/): Contains the Google Colab notebook of our project.
