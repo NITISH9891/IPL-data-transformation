@@ -33,4 +33,4 @@ The dataset consists 18 columns. Let’s get familiar with the columns.
 * To find the city that hosted the maximum number of IPL matches.
 * To find the most winning team for each season.
 * To find the on-field umpire with the maximum number of IPL matches.
-*To find the biggest victories in IPL while defending a total and while chasing a total.
+* To find the biggest victories in IPL while defending a total and while chasing a total.
